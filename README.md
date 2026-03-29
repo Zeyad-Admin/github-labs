@@ -8,7 +8,7 @@ A comprehensive collection of hands-on labs demonstrating enterprise-level netwo
 | :--- | :--- | :--- |
 | [**Link Aggregation & NIC Teaming**](./link-aggregation-nic-teaming-lab) | Configuring LACP and NIC Teaming for bandwidth and redundancy. | ✅ Completed |
 | [**VLAN Segmentation Lab**](./vlan-segmentation-lab) | Implementing network isolation using 802.1Q VLAN tagging. | ✅ Completed |
-| [**Enterprise Switch Lab**](./enterprise-switch-lab) | Advanced Layer 2/3 switching configurations and STP. | ✅ Completed |
+| [**Spanning Tree Protocol (STP) Lab**](https://github.com/Zeyad-Admin/spanning-tree-protocol-lab) | Configuring and validating STP to prevent Layer 2 loops. | ✅ Completed |
 | [**DHCP Standalone Server Lab**](./dhcp-standalone-server-lab) | Deploying and configuring a standalone DHCP server. | ⏳ Planned |
 | [**Home Lab Network Design**](./home-lab-network-design) | Architectural design for a multi-service home laboratory. | ⏳ Planned |
 
